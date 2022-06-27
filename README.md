@@ -47,7 +47,7 @@
   Access to the GitHub project and clone or download the project, you can do this by clicking in the green button with the word "Code". If you decided to clone the repo you need to choose one of the SSH/HTTPS keys and copy one, after this you will need to open the terminal of your choice and type "git clone 'key'" you will need to paste one of the two keys you previously select and then click enter. If you decided to download the project you will click in the "Download.zip" option and the project will be downloaded so you will locate the file and do a right-click to select "Extract All" and you can choose where tu place it.
 
   ## Usage 
-  To use this app you will need to download and install the terminal for mac or gitbash for windows. You may also need to install node.js and npm using the terminal. You will open the project in the code editor of your choice and then open the terminal and type "npm i inquirer" to install the dependency inquirer package. Finally you will be able to use the app typing on your terminal "node index.js" and click enter.
+  To use this app you will need to download and install the terminal for mac or gitbash for windows. You may also need to install node.js and npm using the terminal. You will open the project in the code editor of your choice and then open the terminal and type "npm install" to install the dependencies "inquirer" and "jest". Finally you will be able to test the code typing "npm test" and to generate the HTML file typing on your terminal "node app.js" and click enter (make sure you are in the correct folder "Develop").
   
   ## Credits and Reference
   The following link helped me to add Badges: https://betterprogramming.pub/add-badges-to-a-github-repository-716d2988dc6a
