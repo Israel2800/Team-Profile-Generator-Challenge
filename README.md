@@ -27,7 +27,7 @@
   
 
   ## Screenshots-Demo
-  ![Screenshot of the HTML file generated.](Develop/images/screenshot-1.png)
+  ![Screenshot of the HTML file generated.](Assets/images/screenshot-1.png)
   
   ## Project Objective
   This app will allow you to create cards of your team members such as managers, engineers and interns. You will complete the required information of any number of members of your team, and an HTML file will be created with an attractive interface so that you can better visualize each member of your team with their respective positions (manager, engineer and intern) and their basic information to be able to reach them!
