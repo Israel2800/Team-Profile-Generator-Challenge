@@ -23,7 +23,13 @@
   #
 
   ##  Project Links
-  https://github.com/israel2800/team-profile-generator-challenge<br>
+  Sample of HTML file generated:
+  https://israel2800.github.io/team-profile-generator-challenge/
+
+  YouTube video Demo:
+
+  GitHub project:
+  https://github.com/israel2800/team-profile-generator-challenge
   
 
   ## Screenshots-Demo
