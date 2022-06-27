@@ -24,6 +24,7 @@
 
   ##  Project Links
   YouTube video Demo:
+  https://youtu.be/BpnF-CR6YL4
 
   GitHub project:
   https://github.com/israel2800/team-profile-generator-challenge
