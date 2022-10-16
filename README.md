@@ -27,7 +27,7 @@
   https://youtu.be/BpnF-CR6YL4
 
   GitHub project:
-  https://github.com/israel2800/team-profile-generator-challenge
+  https://github.com/Israel2800/team-profile-generator
   
 
   ## Screenshots-Demo
