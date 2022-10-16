@@ -1,5 +1,5 @@
  
-  # TEAM PROFILE GENERATOR CHALLENGE
+  # TEAM PROFILE GENERATOR
 
   [![github-follow](https://img.shields.io/github/followers/israel2800?label=Follow&logoColor=blue&style=social)](https://github.com/israel2800)
   [![project-languages-used](https://img.shields.io/github/languages/count/israel2800/team-profile-generator-challenge?color=important)](https://github.com/israel2800/team-profile-generator-challenge)
